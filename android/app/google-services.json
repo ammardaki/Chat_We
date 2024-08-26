@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100838094614",
+    "project_id": "chatplus-315cc",
+    "storage_bucket": "chatplus-315cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100838094614:android:ec88cb6a9c979088c98237",
+        "android_client_info": {
+          "package_name": "com.example.chat_we"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxxD6U_U1khke_BE_Quxhh7J8ekPhcrNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
